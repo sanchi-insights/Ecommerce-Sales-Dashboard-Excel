@@ -21,15 +21,7 @@ Interactive Microsoft Excel dashboard developed to analyze e-commerce sales data
 
 ## 📂 Dataset
 
-* Order ID
-* Order Date
-* Customer Details
-* Product Category & Sub-Category
-* Sales
-* Profit
-* Quantity
-* Discount
-* Region & State
+https://github.com/sanchi-insights/Ecommerce-Sales-Dashboard-Excel/blob/main/E-commerce%20dashboard.PNG
 
 ---
 
