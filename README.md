@@ -21,11 +21,12 @@ Interactive Microsoft Excel dashboard developed to analyze e-commerce sales data
 
 ## 📂 Dataset
 
-https://github.com/sanchi-insights/Ecommerce-Sales-Dashboard-Excel/blob/main/E-commerce%20dashboard.PNG
-https://github.com/sanchi-insights/Ecommerce-Sales-Dashboard-Excel/blob/main/Ecommerce%20Sales%20Analysis.xlsx
+- <a href="https://github.com/sanchi-insights/Ecommerce-Sales-Dashboard-Excel/blob/main/Ecommerce%20Sales%20Raw%20Data.xlsx">Dataset</a>
 ---
 
 ## 📈 Dashboard Features
+
+- Dashboard Interaction <a href="https://github.com/sanchi-insights/Ecommerce-Sales-Dashboard-Excel/blob/main/Ecommerce%20Sales%20Analysis.xlsx">View Dashboard</a>
 
 * KPI Cards
 
@@ -46,6 +47,7 @@ https://github.com/sanchi-insights/Ecommerce-Sales-Dashboard-Excel/blob/main/Eco
 
 * Profit Analysis
 
+
 ---
 
 ## 🛠 Tools Used
@@ -56,6 +58,12 @@ https://github.com/sanchi-insights/Ecommerce-Sales-Dashboard-Excel/blob/main/Eco
 * Slicers
 * Conditional Formatting
 * Excel Functions
+
+---
+
+## 📊 Dashboard
+<img width="1144" height="561" alt="E-commerce dashboard" src="https://github.com/user-attachments/assets/6d59bf6b-3bc5-4d6e-acdf-b0c180738849" />
+
 
 ---
 
