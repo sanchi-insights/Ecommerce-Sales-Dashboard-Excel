@@ -22,7 +22,7 @@ Interactive Microsoft Excel dashboard developed to analyze e-commerce sales data
 ## 📂 Dataset
 
 https://github.com/sanchi-insights/Ecommerce-Sales-Dashboard-Excel/blob/main/E-commerce%20dashboard.PNG
-
+https://github.com/sanchi-insights/Ecommerce-Sales-Dashboard-Excel/blob/main/Ecommerce%20Sales%20Analysis.xlsx
 ---
 
 ## 📈 Dashboard Features
